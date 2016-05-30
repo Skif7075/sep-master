@@ -1,0 +1,43 @@
+Length: 4
+Seconds passed: 0
+Length: 5
+Seconds passed: 0
+Length: 6
+Seconds passed: 0
+Length: 7
+Seconds passed: 0
+Length: 8
+Seconds passed: 0
+Length: 9
+Seconds passed: 0
+Length: 10
+Seconds passed: 0
+Length: 11
+Seconds passed: 0
+Length: 12
+Seconds passed: 0
+Length: 13
+Seconds passed: 0
+Length: 14
+Seconds passed: 1
+Length: 15
+Seconds passed: 0
+Length: 16
+Seconds passed: 1
+Length: 17
+Seconds passed: 2
+Length: 18
+Seconds passed: 4
+Length: 19
+Seconds passed: 8
+Length: 20
+Seconds passed: 17
+Length: 21
+Seconds passed: 34
+Length: 22
+Seconds passed: 67
+Length: 23
+Seconds passed: 135
+Length: 24
+Seconds passed: 284
+Length: 25
